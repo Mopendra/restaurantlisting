@@ -8,7 +8,7 @@ spring:
   application:
     name: RESTAURANT-SERVICE
   datasource:
-    url: jdbc:mysql://mydatabase.cf888ioo64ez.us-east-1.rds.amazonaws.com:3306/restaurantdb
+    url: jdbc:mysql://mysql-db.cf888ioo64ez.us-east-1.rds.amazonaws.com:3306/restaurantdb
     password: admin
     username: admin123
     driver-class-name: com.mysql.cj.jdbc.Driver
