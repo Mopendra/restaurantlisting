@@ -9,8 +9,8 @@ spring:
     name: RESTAURANT-SERVICE
   datasource:
     url: jdbc:mysql://mysql-db.cf888ioo64ez.us-east-1.rds.amazonaws.com:3306/restaurantdb
-    password: admin
-    username: codedecode
+    password: codedecode
+    username: admin
     driver-class-name: com.mysql.cj.jdbc.Driver
 
   jpa:
